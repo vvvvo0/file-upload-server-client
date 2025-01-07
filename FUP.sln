@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FUP", "FUP.csproj", "{49CB3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReceiver", "..\FileReceiver\FileReceiver.csproj", "{B225AB25-C950-443B-B084-2B40BBA0BA1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSender", "..\FileSender\FileSender.csproj", "{F963AA4C-5128-4F50-A3A6-796C6912ED83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B225AB25-C950-443B-B084-2B40BBA0BA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B225AB25-C950-443B-B084-2B40BBA0BA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B225AB25-C950-443B-B084-2B40BBA0BA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F963AA4C-5128-4F50-A3A6-796C6912ED83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F963AA4C-5128-4F50-A3A6-796C6912ED83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F963AA4C-5128-4F50-A3A6-796C6912ED83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F963AA4C-5128-4F50-A3A6-796C6912ED83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
